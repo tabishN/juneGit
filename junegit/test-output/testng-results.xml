@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Logs easily accessable]]>
+    </line>
+    <line>
+      <![CDATA[Chrome launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[site open successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-18T12:03:14 IST" name="Default suite" finished-at="2023-07-18T12:03:23 IST" duration-ms="8454">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T12:03:14 IST" name="Default test" finished-at="2023-07-18T12:03:23 IST" duration-ms="8454">
+      <class name="junegit.test0">
+        <test-method signature="metd()[pri:0, instance:junegit.test0@3b6ddd1d]" started-at="2023-07-18T12:03:14 IST" name="metd" finished-at="2023-07-18T12:03:23 IST" duration-ms="8392" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logs easily accessable]]>
+            </line>
+            <line>
+              <![CDATA[Chrome launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[site open successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- metd -->
+      </class> <!-- junegit.test0 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
