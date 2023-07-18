@@ -6,10 +6,11 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class mTest {
-	WebDriver driver;
+	
 
 	@Test
 	public void metd() {
+		WebDriver driver;
 		System.out.println("Hello welcome to Jenkins");
 		Reporter.log("Logs easily accessable", true);
 		System.out.println("Initilizing the Google Chrome Driver");
