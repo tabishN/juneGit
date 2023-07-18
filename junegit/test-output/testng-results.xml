@@ -11,12 +11,12 @@
       <![CDATA[site open successfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-18T12:03:14 IST" name="Default suite" finished-at="2023-07-18T12:03:23 IST" duration-ms="8454">
+  <suite started-at="2023-07-18T12:12:27 IST" name="Suite" finished-at="2023-07-18T12:12:36 IST" duration-ms="8076">
     <groups>
     </groups>
-    <test started-at="2023-07-18T12:03:14 IST" name="Default test" finished-at="2023-07-18T12:03:23 IST" duration-ms="8454">
+    <test started-at="2023-07-18T12:12:27 IST" name="Test" finished-at="2023-07-18T12:12:36 IST" duration-ms="8076">
       <class name="junegit.test0">
-        <test-method signature="metd()[pri:0, instance:junegit.test0@3b6ddd1d]" started-at="2023-07-18T12:03:14 IST" name="metd" finished-at="2023-07-18T12:03:23 IST" duration-ms="8392" status="PASS">
+        <test-method signature="metd()[pri:0, instance:junegit.test0@2fb3536e]" started-at="2023-07-18T12:12:27 IST" name="metd" finished-at="2023-07-18T12:12:36 IST" duration-ms="8026" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logs easily accessable]]>
@@ -30,6 +30,6 @@
           </reporter-output>
         </test-method> <!-- metd -->
       </class> <!-- junegit.test0 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
