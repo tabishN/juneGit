@@ -21,6 +21,7 @@ public class mTest {
 		driver.get("https://otest.anytimeastro.com/");
 		Reporter.log("site open successfully", true);
 		driver.quit();
+		System.out.println("checking jenkins....");
 	}
 
 }
