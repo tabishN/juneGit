@@ -22,8 +22,8 @@ public class mTest {
 		Reporter.log("site open successfully", true);
 		driver.quit();
 		System.out.println("checking jenkins....");
-		Reporter.log("check git ecent triggered", true);
-		
+		//Reporter.log("check git ecent triggered", true);
+		Reporter.log("check git event triggered second time", true);
 	}
 
 }
