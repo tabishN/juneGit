@@ -96,7 +96,7 @@
 
   </dependencies>
   
-  <profiles>
+<!--   <profiles>
   
   <profile>
    <id>RegionalReg</id>
@@ -226,7 +226,7 @@
     </build> 
   </profile> 
   
-  </profiles>
+  </profiles> -->
   
   
 </project>
